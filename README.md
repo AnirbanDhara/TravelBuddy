@@ -6,8 +6,11 @@ A search form with destination, date, and number of travelers
 Destination cards displaying:
 
 *Image
+
 *Location name
+
 *Description
+
 *Price
 
 
